@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Build/cache
+build/
+dist/
+out/
+target/
+.gradle/
+.dart_tool/
+.terraform/
+node_modules/
+coverage/
+
+# Logs
+*.log
+
+# Secrets and local state
+*.pem
+*.key
+*.p12
+*.jks
+secrets/
+local.*

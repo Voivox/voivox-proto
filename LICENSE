@@ -1,0 +1,17 @@
+# Voivox Source-Visible Proprietary License
+
+Copyright (c) 2026 Voivox. All rights reserved.
+
+This repository is made publicly visible for transparency, security review, education, and
+project coordination. Unless Voivox grants separate written permission, you may not copy,
+modify, distribute, sublicense, sell, host, or create derivative works from Voivox-owned
+source code, documentation, designs, assets, trademarks, or build artifacts in this repository.
+
+You may view and clone this repository only for personal inspection and for submitting
+security reports or project feedback through the channels documented by Voivox.
+
+Third-party dependencies keep their own licenses. Those licenses are not replaced by this
+notice, and required copyright/license notices must be preserved in redistributions where
+applicable.
+
+This repository and its contents are provided "as is", without warranties of any kind.
